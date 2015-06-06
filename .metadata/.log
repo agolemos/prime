@@ -1,0 +1,66 @@
+!SESSION 2015-05-22 00:46:38.835 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-22 00:47:15.952
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+!SESSION 2015-05-25 13:19:39.140 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 0 2015-05-25 13:32:03.071
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
+!SESSION 2015-05-28 23:43:27.905 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 0 2015-05-29 00:03:13.936
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
+!SESSION 2015-05-29 10:22:41.679 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 0 2015-05-29 11:02:06.111
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.960
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.975
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.976
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.977
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.977
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.978
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-05-29 11:52:20.979
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.aptana.usage.internal.DefaultAnalyticsEventHandler$1

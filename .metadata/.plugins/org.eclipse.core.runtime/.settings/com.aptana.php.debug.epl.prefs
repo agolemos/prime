@@ -1,0 +1,10 @@
+com.aptana.php.debug.allowMultipleLaunches=always
+com.aptana.php.debug.eplinstalledPHPDebuggers=
+com.aptana.php.debug.eplinstalledPHPDefaults=
+com.aptana.php.debug.eplinstalledPHPInis=
+com.aptana.php.debug.eplinstalledPHPLocations=
+com.aptana.php.debug.eplinstalledPHPNames=
+com.aptana.php.debug.eplzend_debug_port=10001
+com.aptana.php.debug.switchBackToPreviousPerspective=always
+eclipse.preferences.version=1
+extensions=
